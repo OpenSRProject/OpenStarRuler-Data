@@ -5,5 +5,5 @@ void preInit() {
 #section all
 
 const bool STEAM_EQUIV_BUILD = IS_STEAM_BUILD;
-const string GAME_VERSION = "v2.0.3";
-const string SCRIPT_VERSION = "DEV";
+const string GAME_VERSION = "OpenSR v1.0.0";
+const string SCRIPT_VERSION = "OSR r70";
