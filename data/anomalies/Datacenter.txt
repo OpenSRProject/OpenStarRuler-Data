@@ -12,13 +12,13 @@ Anomaly: Datacenter
 		Choice: Recover
 
 	Option: Read
-		Icon: AffinityIcons::5
+		Icon: CardCategoryIcons::1
 		Description: #ANOMALY_DATACENTER_READ
 
 		RandomMapVision(5)
 
 	Option: Recover
-		Icon: CardCategoryIcons::1
+		Icon: AffinityIcons::5
 		Description: #ANOMALY_DATACENTER_RECOVER
 
 		Result: 20%
